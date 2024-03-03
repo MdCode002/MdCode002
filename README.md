@@ -11,7 +11,12 @@
 <center><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MdCode002&show_icons=true&locale=en&layout=compact" alt="MdCode002" /></p></center>
 <br>
 
+<!-- Visotor counter -->
+<p align="center">
+  Visitor <br><img src="https://profile-counter.glitch.me/MdCode002/count.svg" />
+</p>
 
+<hr>
 <h3 align="left">🔥   My Stats :</h3>
 
 
