@@ -8,7 +8,7 @@
 <br>
 <br>
 <br>
-<center><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=medzo02&show_icons=true&locale=en&layout=compact" alt="medzo02" /></p></center>
+<center><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MdCode002&show_icons=true&locale=en&layout=compact" alt="MdCode002" /></p></center>
 <br>
 
 
@@ -16,5 +16,5 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Medzo02&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=MdCode002&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
